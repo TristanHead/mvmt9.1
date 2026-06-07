@@ -19,3 +19,5 @@ And now, here's the changelogue:
     May 28th, 2026: Added decaying tiles, fixed bugs, expanded map horizontally
 
     June 3rd, 2026: Added first two levels of campaign, did a lot of rewriting
+
+    June 7th, 2026: Added a third level, added decorations
